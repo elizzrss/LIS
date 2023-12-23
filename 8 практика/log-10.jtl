@@ -1,0 +1,31 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1703265482249,1037,HTTP Request,200,OK,Thread Group 1-8,text,true,,1160841,234,10,10,https://fox-pizza.ru/,113,0,53
+1703265482249,113,HTTP Request-0,301,Moved Permanently,Thread Group 1-8,text,true,,450,117,10,10,http://fox-pizza.ru/,113,0,53
+1703265482363,923,HTTP Request-1,200,OK,Thread Group 1-8,text,true,,1160391,117,10,10,https://fox-pizza.ru/,712,0,562
+1703265482150,1173,HTTP Request,200,OK,Thread Group 1-7,text,true,,1160841,234,9,9,https://fox-pizza.ru/,99,0,47
+1703265481752,1571,HTTP Request,200,OK,Thread Group 1-3,text,true,,1160841,234,9,9,https://fox-pizza.ru/,103,0,50
+1703265482150,99,HTTP Request-0,301,Moved Permanently,Thread Group 1-7,text,true,,450,117,9,9,http://fox-pizza.ru/,99,0,47
+1703265481752,104,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,450,117,9,9,http://fox-pizza.ru/,103,0,50
+1703265482250,1073,HTTP Request-1,200,OK,Thread Group 1-7,text,true,,1160391,117,9,9,https://fox-pizza.ru/,850,0,676
+1703265481858,1465,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,1160391,117,9,9,https://fox-pizza.ru/,1242,0,1068
+1703265482350,1001,HTTP Request,200,OK,Thread Group 1-9,text,true,,1160841,234,7,7,https://fox-pizza.ru/,102,0,52
+1703265482350,102,HTTP Request-0,301,Moved Permanently,Thread Group 1-9,text,true,,450,117,7,7,http://fox-pizza.ru/,102,0,52
+1703265482453,898,HTTP Request-1,200,OK,Thread Group 1-9,text,true,,1160391,117,7,7,https://fox-pizza.ru/,646,0,480
+1703265481652,1699,HTTP Request,200,OK,Thread Group 1-1,text,true,,1160841,234,7,7,https://fox-pizza.ru/,151,0,79
+1703265481652,162,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,450,117,7,7,http://fox-pizza.ru/,151,0,79
+1703265481816,1535,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,1160391,117,7,7,https://fox-pizza.ru/,1284,0,1114
+1703265481852,1550,HTTP Request,200,OK,Thread Group 1-4,text,true,,1160841,234,5,5,https://fox-pizza.ru/,108,0,54
+1703265481852,108,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,450,117,5,5,http://fox-pizza.ru/,108,0,54
+1703265481961,1441,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,1160391,117,5,5,https://fox-pizza.ru/,1151,0,975
+1703265481652,1743,HTTP Request,200,OK,Thread Group 1-2,text,true,,1160841,234,5,5,https://fox-pizza.ru/,151,0,84
+1703265481652,162,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,450,117,5,5,http://fox-pizza.ru/,151,0,84
+1703265481816,1579,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,1160391,117,5,5,https://fox-pizza.ru/,1262,0,1112
+1703265482051,1417,HTTP Request,200,OK,Thread Group 1-6,text,true,,1160841,234,3,3,https://fox-pizza.ru/,97,0,47
+1703265482051,97,HTTP Request-0,301,Moved Permanently,Thread Group 1-6,text,true,,450,117,3,3,http://fox-pizza.ru/,97,0,47
+1703265482150,1318,HTTP Request-1,200,OK,Thread Group 1-6,text,true,,1160391,117,3,3,https://fox-pizza.ru/,950,0,783
+1703265481951,1719,HTTP Request,200,OK,Thread Group 1-5,text,true,,1160841,234,2,2,https://fox-pizza.ru/,102,0,49
+1703265481951,102,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,450,117,2,2,http://fox-pizza.ru/,102,0,49
+1703265482054,1616,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,1160391,117,2,2,https://fox-pizza.ru/,1049,0,878
+1703265482449,1370,HTTP Request,200,OK,Thread Group 1-10,text,true,,1160841,234,1,1,https://fox-pizza.ru/,95,0,46
+1703265482449,95,HTTP Request-0,301,Moved Permanently,Thread Group 1-10,text,true,,450,117,1,1,http://fox-pizza.ru/,95,0,46
+1703265482546,1273,HTTP Request-1,200,OK,Thread Group 1-10,text,true,,1160391,117,1,1,https://fox-pizza.ru/,560,0,386
